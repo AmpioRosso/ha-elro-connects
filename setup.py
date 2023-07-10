@@ -15,15 +15,15 @@ with open("version") as f:
     __version__ = f.read()
 
 setup(
-    author="Jan Bouwhuis",
+    author="AmpioRosso",
     name="ha-elro-connects",
     version=__version__,
     packages=find_packages(),
     python_requires=">=3.9",
     install_requires=requirements,
     license="MIT license",
-    url="https://github.com/jbouwh/ha-elro-connects",
-    author_email="jan@jbsoft.nl",
+    url="https://github.com/ampiorosso/ha-elro-connects",
+    author_email="ampiorosso@gmail.com",
     description="Add Elro Connects alarm devices to Home Assistant",
     classifiers=[
         "Development Status :: 3 - Alpha",
