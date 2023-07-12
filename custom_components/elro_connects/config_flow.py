@@ -37,7 +37,7 @@ ELRO_CONNECTS_DATA_SCHEMA = vol.Schema(
     }
 )
 
-TITLE = "Elro Connects K1 Connector"
+TITLE = "Elro Connects K1 Connector (DEV)"
 
 
 class K1ConnectionTest:
