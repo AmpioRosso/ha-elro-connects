@@ -1,7 +1,7 @@
 {
   "domain": "elro_connects",
   "name": "Elro Connects (DEV)",
-  "codeowners": ["@jbouwh"],
+  "codeowners": ["@ampiorosso"],
   "config_flow": true,
   "documentation": "https://github.com/ampiorosso/ha-elro-connects",
   "iot_class": "local_polling",
